@@ -1,0 +1,3 @@
+CSS = """
+textarea, .gr-code {font-size: 14px !important;}
+"""

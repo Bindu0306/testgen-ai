@@ -1,0 +1,5 @@
+gradio
+pytest
+coverage
+python-dotenv
+requests
